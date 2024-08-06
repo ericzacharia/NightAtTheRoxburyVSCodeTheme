@@ -1,0 +1,21 @@
+{
+    "name": "roxbury",
+    "displayName": "Roxbury",
+    "description": "Pycharm Darkula inspired with brighter colors",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.68.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Night at the Roxbury",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Night at the Roxbury-color-theme.json"
+            }
+        ]
+    }
+}
